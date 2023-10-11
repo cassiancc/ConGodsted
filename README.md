@@ -12,7 +12,7 @@ For the Minecraft projects, [head over to my Modrinth](https://modrinth.com/user
 
 For a more professional work history, [find me on LinkedIn](https://www.linkedin.com/in/con-godsted/).
 
-## A few of my noteworthy projects are
+## A few of my noteworthy projects are...
 
 - My work at INTERalliance! I've been the Internal Systems Admin at IA for the last four years, and I've managed [their site](https://interalliance.org) and the website for [TechOlympics](https://techolympics.org), the largest student run tech conference in the US since I started. While there, I also handled a full redesign of the website for [the Carnegie](https://thecarnegie.com), and ongoing maintenance on our custom [Wiki Races](https://github.com/INTERallianceGC/WikiRaces) webapp.
 - [Tier Away](https://tieraway.godsted.com)! Tier Away is an open source tier list designer, because you shouldn't need an account to make a private tier list.
