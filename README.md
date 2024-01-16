@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-I'm Con Godsted. 
+I'm Cassian Godsted. 
 
 I'm a web developer, and sometimes I experiment with other languages. I also make Minecraft modpacks and mods (mostly ports, in that case)
 
 I'm currently working at [Northern Kentucky University's College of Informatics](https://www.nku.edu/academics/informatics.html) as an Operations and Events Assistant, and at the [INTERalliance of Greater Cincinnati](https://interalliance.org) as the Internal Systems Admin. I'm also President of the [Norse IoT Club](https://norseiot.club) at Northern Kentucky University, where I study Computer Information Technology.
 
-For a list of projects, [head over to my personal site](https://congodsted.com).
+For a list of projects, [head over to my personal site](https://cassian.cc).
 
-For the Minecraft projects, [head over to my Modrinth](https://modrinth.com/user/ConGodsted)!
+For the Minecraft projects, [head over to my Modrinth](https://modrinth.com/user/Cassian)!
 
-For a more professional work history, [find me on LinkedIn](https://www.linkedin.com/in/con-godsted/).
+For a more professional work history, [find me on LinkedIn](https://www.linkedin.com/in/cassiancc).
 
 ## A few of my noteworthy projects are...
 
@@ -19,11 +19,9 @@ For a more professional work history, [find me on LinkedIn](https://www.linkedin
 - [Simply Infinite](https://modrinth.com/modpack/simply-infinite) is a personal favourite of mine. It's an optimization modpack for an April Fools update of Minecraft. A third of the mods in the pack have been ported by me to this version, it was a great learning experience. Always looking for more mods on that one, so if you know Java, get in touch!
 - Norse IoT's [Website Workshops](http://norseiot.club/projects/)! I, alongside a few club members, taught NKU students the basics of HTML/CSS to make personal websites. I created six templates for people to work off of, and I'm proud of the results.
 
-That's about it for me. Again, more details over on [congodsted.com](https://congodsted.com).
+That's about it for me. Again, more details over on [cassian.cc](https://cassian.cc).
 
 <!-- 
-**ConGodsted/ConGodsted** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
