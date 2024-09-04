@@ -24,7 +24,7 @@ For a more professional work history, [find me on LinkedIn](https://www.linkedin
 That's about it for me. Again, more details over on [cassian.cc](https://cassian.cc).
 
 ![Profile Views](https://komarev.com/ghpvc/?username=cassiancc)
-
+<link rel="me" href="https://tech.lgbt/@cassian"></link>
 <!-- 
 Here are some ideas to get you started:
 
