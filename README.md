@@ -18,7 +18,8 @@ For a more professional work history, [find me on LinkedIn](https://www.linkedin
 - [Tier Away](https://tieraway.godsted.com)! Tier Away is an open source tier list designer, because you shouldn't need an account to make a private tier list.
 - Norse IoT's [Website Workshops](http://norseiot.club/projects/)! I, alongside a few club members, taught NKU students the basics of HTML/CSS to make personal websites. I created six templates for people to work off of, and I'm proud of the results.
 - [Simply Infinite](https://modrinth.com/modpack/simply-infinite) is a personal favourite of mine. It's a first of its kind optimization modpack for an April Fools update of Minecraft.
-- [Pyrite](https://modrinth.com/mod/pyrite) is my first mod for Minecraft, adding more block variations, including dyed wood, dyed bricks, new material blocks and more to complete your colourful builds.
+- [Pyrite](https://modrinth.com/mod/pyrite) is a Minecraft mod that adds more block variations, including dyed wood, dyed bricks, new material blocks and more to complete your colourful builds.
+- [Item Descriptions](https://modrinth.com/mod/item-descriptions) is a Minecraft mod that adds unique descriptions to all blocks, items, and entities in the game. It has integrations with other utility mods like Jade and Limelight, and an extensible system that allows for content mods and resource packs to add their own descriptions.
 
 
 That's about it for me. Again, more details over on [cassian.cc](https://cassian.cc).
